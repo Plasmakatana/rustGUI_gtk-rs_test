@@ -1,7 +1,7 @@
 # rustGUI_gtk-rs_test
 Testing GTK for rust
 Image loader application
-loads images from URLs
+Loads images from URLs
 Necessary(probably) commands:
 ```
 apt install libgtk-4-dev
